@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Aqib Ahmed Khan
+Author - Aqib Ahmed Khan (Apna College)
